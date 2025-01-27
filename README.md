@@ -1,4 +1,4 @@
-![Header](Images/header-banner.png)
+![Header](Images/header-image.png)
 
 <h1 align="center">A journey into a new universe</h1>
 <h3 align="center">What's going on?</h3>
