@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DIY repair assistent**
 
-- 🌱 I’m currently learning **LLMs, prompting, Dify, Python**
+- 🌱 I’m currently learning more about **LLMs, prompting, YML, JSON, Dify, Python**
 
 - 🤝 I’m looking for help with my **DIY repair assistent**
 
