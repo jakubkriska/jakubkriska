@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning more about **LLMs, prompting, YML, JSON, Dify, Python**
 
-- 🤝 I’m looking for help with my **DIY repair assistent**
+- 🤝 I’m looking for help with my **DIY repair assistant**
 
 - 💬 Ask me about **Use of AI in the field of Education**
 
