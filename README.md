@@ -21,5 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakubkriska&show_icons=true&locale=en" alt="jakubkriska" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakubkriska&" alt="jakubkriska" /></p>
-
