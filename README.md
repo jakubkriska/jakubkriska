@@ -3,11 +3,9 @@
 <h1 align="center">A journey into a new universe</h1>
 <h3 align="center">What's going on?</h3>
 
-- 🔭 I’m currently working on **DIY repair assistent**
+- 🔭 I’m currently working on **Provider Data Network System**
 
-- 🌱 I’m currently learning more about **LLMs, prompting, YML, JSON, Dify, Python**
-
-- 🤝 I’m looking for help with my **DIY repair assistant**
+- 🌱 I’m currently learning more about **AWS, RAG, LLM training**
 
 - 💬 Ask me about **Use of AI in the field of Education**
 
